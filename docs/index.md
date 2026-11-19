@@ -7,6 +7,11 @@ An **Azure landing zone** is a blueprint for organizing, securing, and operating
 
 Most organizations use one platform landing zone per Microsoft Entra tenant. [1]
 
+## Documentation
+
+- [Azure landing zones overview](index.md)
+- [Terraform platform landing zone](terraform/index.md)
+
 ## How subscriptions fit together
 
 Management groups organize subscriptions and apply shared rules. A subscription inherits policies and access assignments from its parent management groups. [1][3]
